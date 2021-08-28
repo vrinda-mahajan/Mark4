@@ -15,6 +15,12 @@ body {
   text-align: center;
   margin: 3rem auto;
 }
+.showcase-list p {
+  padding-bottom: 1rem;
+}
+.showcase-blog {
+  padding-bottom: 6rem;
+}
 hr {
   margin: 2rem 0rem;
 }
@@ -22,7 +28,7 @@ hr {
   padding: 0rem 1rem;
 }
 .container-center {
-  max-width: 600px;
+  max-width: 900px;
   margin: auto;
 }
 
