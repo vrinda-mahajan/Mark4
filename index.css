@@ -2,12 +2,13 @@
 body {
   margin: 0px;
   font-family: "Montserrat", sans-serif;
+  background-color: #e3fdfd;
 }
 
 :root {
-  --primary-color: #34d399;
+  --primary-color: #00adb5;
   --gray: #f3f4f6;
-  --dark-gray: #6b7280;
+  --dark-gray: #222831;
 }
 .list-non-bullet .showcase-list {
   padding: 2rem;
@@ -88,6 +89,11 @@ hr {
   padding-top: 1rem;
   color: var(--dark-gray);
   text-align: center;
+}
+.crypto {
+  display: block;
+  max-width: 200px;
+  margin: auto;
 }
 
 .section {
